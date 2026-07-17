@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá, eu sou o Luiz Felipe 👋
 
-<!--
-**lfelipe-tech/lfelipe-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+.Estudante de Análise e Desenvolvimento de Sistemas na UNICID (2º semestre), construindo minha base em programação com foco em Python.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Estudando atualmente: Python (lógica, funções, POO), Git/GitHub
+- 🌱 Próximos passos: banco de dados, Flask e desenvolvimento web
+- 💻 Praticando com projetos pequenos e reais — cada exercício aqui é um passo a mais
+- 🎯 Objetivo: minha primeira oportunidade na área de tecnologia
+- 📫 Contato: www.linkedin.com/in/
+
+
+
+📌 Este perfil está em construção — assim como meu aprendizado.
